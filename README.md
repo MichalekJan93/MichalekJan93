@@ -1,3 +1,13 @@
+<div  style="width:1000px; background=red">
+  <code>
+  <img src="https://media.giphy.com/media/JqM9R7HcXrTnzN1EVr/giphy.gif" style="width: 1000px">
+</code>
+</div>
+<br />
+<p dir="auto">
+  <a href="https://www.linkedin.com/in/janmichalekCoding/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png"></a>  
+</p>
+
 ### Hey ! 👋
 I'm Jan Michálek, a passionate self-taught front-end web developer and a freelancer from Czech Republic. Programming is my passion, which I spend all my free time doing.
 
@@ -30,3 +40,6 @@ I'm Jan Michálek, a passionate self-taught front-end web developer and a freela
   </code>
 </p>
 
+<p dir="auto">
+  💬 If you have any offer of cooperation for me, or just to chat about programming, write to me by <a href="mailto:janmichalek213@gmail.com">email</a>
+</p>
