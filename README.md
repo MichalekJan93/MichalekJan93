@@ -13,7 +13,7 @@ I'm Jan Michálek, a passionate self-taught front-end web developer and a freela
 
 #### languages and tools:
 
-<p dir="auto">
+<p dir="auto" style="display: flex";>
   <code>
     <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" style="max-width: 10%">
   </code>
