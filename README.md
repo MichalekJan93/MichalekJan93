@@ -15,10 +15,10 @@ I'm Jan Michálek, a passionate self-taught front-end web developer and a freela
 
 <p dir="auto">
   <code>
-    <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" style="max-width: 100%">
+    <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" style="max-width: 10%">
   </code>
   <code>
-    <img height="25" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" style="max-width: 100%">
+    <img height="25" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" style="max-width: 10%">
   </code>
   <code >
     <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%">
