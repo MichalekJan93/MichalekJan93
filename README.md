@@ -1,7 +1,5 @@
 <div  style="width:1000px; background=red">
-  <code>
-  <img src="https://media.giphy.com/media/JqM9R7HcXrTnzN1EVr/giphy.gif" style="width: 1000px">
-</code>
+ <img src="https://media.giphy.com/media/JqM9R7HcXrTnzN1EVr/giphy.gif" style="width: 1000px">
 </div>
 <br />
 <p dir="auto">
