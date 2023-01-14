@@ -24,8 +24,8 @@ I'm Jan Michálek, a passionate self-taught front-end web developer and a freela
    <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" width="32" height="32">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="32" height="32">
 </span>
-
-
+<br>
+<br>
 <p dir="auto">
   💬 If you have any offer of cooperation for me, or just to chat about programming, write to me by <a href="mailto:janmichalek213@gmail.com">email</a>
 </p>
