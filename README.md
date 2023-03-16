@@ -1,6 +1,6 @@
  <img src="https://www.linkpicture.com/q/github_13.png">
 
-I am a front-end programmer working for U & SLUNO a.s., a company based in Ostrava.With more than [number of years] of experience, I specialize in creating modern web applications using frameworks such as React and Next.js. I have experience in front-end and back-end development and I like to learn new technologies and practices.
+I am a front-end programmer working for U & SLUNO a.s., a company based in Ostrava.With more than five years of experience, I specialize in creating modern web applications using frameworks such as React and Next.js. I have experience in front-end and back-end development and I like to learn new technologies and practices.
 
 In previous projects I have had the opportunity to work on a variety of projects, from simple websites to complex applications for large companies. I strive to design and implement quality and optimized code to make the site fast and reliable.
 
