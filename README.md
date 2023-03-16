@@ -29,3 +29,9 @@ I'm Jan Michálek, a passionate self-taught front-end web developer and a freela
 <p dir="auto">
   💬 If you have any offer of cooperation for me, or just to chat about programming, write to me by <a href="mailto:janmichalek213@gmail.com">email</a>
 </p>
+<br>
+<br>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api?username=MichalekJan93&theme=transparent&show_icons=true)](https://github.com/MichalekJan93)
+ [![Jan Michálek's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MichalekJan93&hide=html,php,css&theme=transparent&show_icons=true)](https://github.com/MichalekJan93)
+
