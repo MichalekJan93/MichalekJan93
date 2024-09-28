@@ -6,10 +6,6 @@ In previous projects I have had the opportunity to work on a variety of projects
 
 Outside of working on projects, I also enjoy creating my own projects and experimenting with new technologies. I believe that working in this field is an endless adventure and look forward to what the future holds.
 
-#### languages and tools:
-
-<img src="https://www.linkpicture.com/q/laguages_1.png" width="700px" >
-
 <br>
 <br>
 <p dir="auto">
