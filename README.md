@@ -1,21 +1,61 @@
- <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="banner" width="100%"/>
 
-I am a front-end programmer working for U & SLUNO a.s., a company based in Ostrava.With more than five years of experience, I specialize in creating modern web applications using frameworks such as React and Next.js. I have experience in front-end and back-end development and I like to learn new technologies and practices.
+# 👋 Hi there, I'm **Jan Michálek**
 
-In previous projects I have had the opportunity to work on a variety of projects, from simple websites to complex applications for large companies. I strive to design and implement quality and optimized code to make the site fast and reliable.
+### 💻 Front-End Developer @ [U & SLUNO a.s.](https://www.usluno.cz/) | Based in Ostrava, CZ
 
-Outside of working on projects, I also enjoy creating my own projects and experimenting with new technologies. I believe that working in this field is an endless adventure and look forward to what the future holds.
+With more than **5 years of experience**, I specialize in building **modern web applications** using technologies like **React**, **Next.js**, and **TypeScript**.  
+I'm passionate about crafting clean, scalable, and performant code — turning design concepts into functional, elegant user experiences.
 
-<br>
-<br>
-<p dir="auto">
-  💬 If you have any offer of cooperation for me, or just to chat about programming, write to me by <a href="mailto:janmichalek213@gmail.com">email</a> or <a href="https://www.linkedin.com/in/janmichalekcoding/">linkedin</a>
-</p>
-<br>
-<br>
-<div style="display: flex; flex-direction: row;">
- <img height=200 src="https://github-readme-stats.vercel.app/api?username=MichalekJan93&theme=transparent&show_icons=true" alt="Jan Michálek stats" />
- <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=MichalekJan93&hide=html,php,css&theme=transparent&show_icons=true" alt="Jan Michálek stats" />
+---
+
+### 🧠 About Me
+
+- 🚀 Experienced in both **front-end** and **back-end** development
+- 🧩 Worked on a wide range of projects — from small websites to **complex enterprise systems**
+- ⚙️ Focused on **quality, performance**, and **code optimization**
+- 🌱 Constantly learning new frameworks, tools, and best practices
+- 💡 Believer in continuous improvement and modern development principles
+
+---
+
+### 🧰 Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
+---
+
+### 🧩 What I’m Currently Up To
+
+- 🏗️ Building internal tools and UI for **WES systems**
+- ⚡ Experimenting with **Next.js 15** and **modern server actions**
+- 🧠 Exploring performance optimization and **clean architecture patterns**
+
+---
+
+### 📬 Get in Touch
+
+💬 Got a project idea, job offer, or just want to chat about tech?  
+Reach out via [**email**](mailto:janmichalek213@gmail.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/janmichalekcoding/).  
+I’m always open to new opportunities and collaborations!
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MichalekJan93&show_icons=true&theme=transparent&hide_title=true&rank_icon=github" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichalekJan93&layout=compact&hide=html,php,css&theme=transparent" alt="Top languages" />
 </div>
 
+---
 
+⭐ _“The best way to predict the future is to create it.”_  
+— Alan Kay
