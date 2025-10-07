@@ -40,7 +40,19 @@ I enjoy designing clean, scalable architectures and delivering reliable, maintai
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![GitLab](https://img.shields.io/badge/-GitLab-181717?logo=gitlab&logoColor=orange&style=flat)
+
+### AI & Automation
+
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-2A8BDE?logo=chatgpt&logoColor=white&style=flat)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000000?logo=openai&logoColor=white&style=flat)
+![AugmentCode](https://img.shields.io/badge/-Augment%20Code-000000?logo=augment&logoColor=white&style=flat)
+
+#### Project Management
+
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
 
 ---
 
