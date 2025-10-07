@@ -44,7 +44,6 @@ I enjoy designing clean, scalable architectures and delivering reliable, maintai
 
 ### AI & Automation
 
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-2A8BDE?logo=chatgpt&logoColor=white&style=flat)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000000?logo=openai&logoColor=white&style=flat)
 ![AugmentCode](https://img.shields.io/badge/-Augment%20Code-000000?logo=augment&logoColor=white&style=flat)
 
