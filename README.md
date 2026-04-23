@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Jan Michálek**
 
-### 💻 Front-End Developer @ [U & SLUNO a.s.](https://www.usluno.cz/) | Based in Ostrava, CZ
+### 💻 Front-End Developer @ [Atos Czech Republic s. r. o.](https://atos.net/cs/ceska-republika) | Based in Ostrava, CZ
 
 With more than **five years of professional experience**, I focus on building **modern, high-performance web applications** using technologies such as **React**, **Next.js**, and **TypeScript**.  
 I enjoy designing clean, scalable architectures and delivering reliable, maintainable solutions for real-world business needs.
